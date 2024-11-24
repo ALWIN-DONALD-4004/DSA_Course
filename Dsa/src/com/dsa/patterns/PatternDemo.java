@@ -12,18 +12,49 @@ public class PatternDemo {
 		int n = sc.nextInt();
 		
 		new PatternOne(n);
+		System.out.println();
+
 		new PatternTwo(n);
-		new PatternThree(n);
-		new PatternFour(n);
-		new PatternFive(n);
-		new PatternSix(n);
-		new PatternSeven(n);
-		new PatternEight(n);
-		new PatternNine(n);
-		new PatternTen(n);
-		new PatternEleven(n);
-		new PatternTwelve(n);
+		System.out.println();
 		
+		new PatternThree(n);
+		System.out.println();
+		
+		new PatternFour(n);
+		System.out.println();
+		
+		new PatternFive(n);
+		System.out.println();
+		
+		new PatternSix(n);
+		System.out.println();
+		
+		new PatternSeven(n);
+		System.out.println();
+		
+		new PatternEight(n);
+		System.out.println();
+		
+		new PatternNine(n);
+		System.out.println();
+		
+		new PatternTen(n);
+		System.out.println();
+		
+		new PatternEleven(n);
+		System.out.println();
+		
+		new PatternTwelve(n);
+		System.out.println();
+		
+		new PatternThirteen(n);
+		System.out.println();
+		
+		new PatternFourteen(n);
+		System.out.println();
+		
+		new PatternFifteen(n);
+		System.out.println();
 		
        sc.close();
 	}
