@@ -65,6 +65,18 @@ public class PatternDemo {
 		new PatternEighteen(n);
 		System.out.println();
 		
+		new PatternNineteen(n);
+		System.out.println();
+		
+		new PatternTwenty(n);
+		System.out.println();
+		
+		new PatternTwentyOne(n);
+		System.out.println();
+		
+		new PatternTwentyTwo(n);
+		System.out.println();
+		
        sc.close();
 	}
 
