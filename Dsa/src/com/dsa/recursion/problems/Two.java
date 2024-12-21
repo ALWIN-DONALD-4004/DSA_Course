@@ -23,6 +23,8 @@ public class Two {
 		int num = sc.nextInt();
 		
 		t1.numbers(1,num);
+		
+		sc.close();
 	}
 
 }
