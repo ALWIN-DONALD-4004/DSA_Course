@@ -16,7 +16,6 @@ public static void main(String[] args) {
 //	SelectionSort s1 = new SelectionSort();
 //	s1.selectionsort(arr,n);
 	
-	
 	System.out.println();
 	
 	//bubble Sort
@@ -26,6 +25,7 @@ public static void main(String[] args) {
 	//InsersionSort
 	InsersionSort i1 = new InsersionSort();
 	i1.insersionSort(arr, n);
+	sc.close();
 }
 }
 

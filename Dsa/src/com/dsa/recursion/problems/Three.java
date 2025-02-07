@@ -18,5 +18,7 @@ public static void main(String[] args) {
 	Three t1= new Three();
 	Scanner sc = new Scanner(System.in);
 	t1.nto1(sc.nextInt());
+	
+	sc.close();
 }
 }
